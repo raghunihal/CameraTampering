@@ -1,4 +1,4 @@
-#CameraBlocked.cpp
+# CameraBlocked.cpp
 This C++ code uses the OpenCV library to access the camera and perform some image processing operations. 
 First, it includes the necessary header file for the OpenCV library. Then, in the main function, it creates a VideoCapture object named "capture" to access the camera. 
 If the camera cannot be opened, it prints an error message and returns -1. Next, 
